@@ -24,6 +24,8 @@ public class PizzaDriver {
                                 .addSpinach()
                                 .addBeef()
                                 .addHam()
+                                .addOlives()
+                                .addSpicyPork()
                                 .build();
                 // Eating Pizza Hut pizzas (part 1)
                 hutSmallPizza.eat();
