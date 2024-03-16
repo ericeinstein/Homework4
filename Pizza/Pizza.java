@@ -20,6 +20,6 @@ public class Pizza {
         for (Topping topping : toppings) {
             System.out.println("- " + topping);
         }
-        System.out.println("Enjoy your pizza!\n");
+        System.out.print("\n");
     }
 }
